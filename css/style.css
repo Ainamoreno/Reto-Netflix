@@ -73,11 +73,12 @@ body {
 }
 
 #div1-m, #div3-m, #div1-f {
+    font-family: sans-serif;
     margin-left: 3em;
     display: flex;
     align-items: flex-end;
     height: 8vh;
-    font-weight: 900;
+    font-weight: 600;
     font-size: 1.2em;
     color: white;
     background-color: black;
@@ -109,7 +110,7 @@ body {
 .peli:hover {
     box-shadow:  0px 0px 7px 2px #ffffffa6;
     width: 14em;
-    height: 9em;
+    height: 8.5em;
 }
 
 .lista-h:hover {
