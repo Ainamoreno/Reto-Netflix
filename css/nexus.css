@@ -1,0 +1,45 @@
+#logo {
+height: 5em;
+}
+
+#head {
+    width: 100vw;
+}
+
+#container {
+    width: 40vw;
+    height: 200vh;
+}
+
+#div1-m {
+    width: 60vw;
+}
+
+#div1-h {
+    width: 20vw;
+    display: grid;
+}
+
+#div2-h {
+    width: 30vw;
+    display: grid;
+}
+
+.peli-m {
+    flex-direction: column;
+    height: 150vh;
+}
+
+.peli {
+    margin-top: 0.3em;
+}
+
+#flecha-pelis {
+    transform: rotate(90deg);
+}
+
+
+
+
+
+
