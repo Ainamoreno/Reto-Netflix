@@ -9,6 +9,7 @@
 Este repositorio incluye la clonación de la pantalla de Netflix utilizando HTML y CSS.
 
 ## <div id = "imagenes"> Imágenes
+
   Plantila para clonar:
   
   ![image](https://user-images.githubusercontent.com/110055279/191950895-a133fd26-d9f0-4228-b303-0b9f2ad8db10.png)
